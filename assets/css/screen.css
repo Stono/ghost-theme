@@ -356,10 +356,10 @@ code, tt {
 pre {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
-    margin: 0 0 1.75em 0;
+    margin: 0 0 1.75em 0 !important;
     border: #E3EDF3 1px solid;
     width: 100%;
-    padding: 10px;
+    padding: 10px !important;
     font-family: Inconsolata, monospace, sans-serif;
     font-size: 0.9em;
     white-space: pre;
